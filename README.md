@@ -1,5 +1,7 @@
 # Solidity-Sploit
 
+Discord server: https://discord.gg/regzujEJU7
+
 Exploit for Hacking Roblox  
 Support multiples Api  
 Made by Rasyid Rafi  
